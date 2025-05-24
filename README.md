@@ -6,7 +6,7 @@ The link of the data set is being provided, because of the large size of the dat
 
 link: https://www.kaggle.com/datasets/techsash/waste-classification-data/data
 
-#Week 1
+
 So for my week 1 project is based on data visualization of the data set 
 1) Displaying the image with its lable
 2) Displaying the images with its labels in the form of grid to know the diversity
@@ -22,7 +22,7 @@ Observation:
 4)In the histogram we can that the organic images are above 12000 and recyclable images are around 10000
 
 
-#Week 2
+
 1) So fist we visualized the images with its height and width
 2) The second task was to find the best model for tarining the data
 3) So for images we can use KNN and CNN but for better accuracy we use CNN
